@@ -29,7 +29,6 @@ Menginstal server Speedtest di dedicated server tersendiri lebih direkomendasika
 ### Rekomendasi
 Jika ingin mengelola Speedtest server dengan hasil akurat dan stabil:
 1. Gunakan **dedicated server** dengan spesifikasi yang cukup, seperti prosesor yang kuat, RAM memadai, dan kartu jaringan berkinerja tinggi.
-2. Pastikan server memiliki koneksi langsung ke jaringan backbone atau minimal dihubungkan melalui switch dengan kapasitas tinggi.
-3. Jika Anda tetap ingin menggunakan MikroTik, gunakan router hanya untuk routing dan manajemen jaringan, sementara aplikasi tambahan seperti Speedtest server di-host di perangkat terpisah.
+2. INGAT... Mikrotik itu untuk routing dan manajemen bandwidth, sementara aplikasi tambahan seperti Speedtest server harus di-install di perangkat terpisah.
 
-Apakah ada hal spesifik yang ingin Anda eksplorasi lebih lanjut terkait pengaturan ini? 😊
+Apakah ada hal spesifik yang ingin Anda tanyakan lebih lanjut terkait pengaturan ini? silakan hubungi nomor hp/wa saya +62 822-3348-3221 (Purwanto) 😊
